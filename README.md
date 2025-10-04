@@ -36,7 +36,7 @@ The application follows a serverless, event-driven architecture. All resources a
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/trivikramm/Serverless-REST-API-with-DynamoDB-and-API-Gateway.git
+git clone https://github.com/karthik6033/Serverless-REST-API-with-DynamoDB-and-API-Gateway.git
 cd Serverless-REST-API-with-DynamoDB-and-API-Gateway
 ```
 
